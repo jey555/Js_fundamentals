@@ -11,6 +11,10 @@
 //true=1
 //null=0
 
-let isLoggedIn=1
-let booleanIsLoggedIn=Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn)
+// let isLoggedIn=1
+// let booleanIsLoggedIn=Boolean(isLoggedIn);
+// console.log(booleanIsLoggedIn)
+
+let value=3
+let negValue= -value
+console.log(negValue)
